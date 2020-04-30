@@ -1,6 +1,38 @@
 {
     "Lua.diagnostics.globals": [
         "http_request",
-        "game"
-    ]
+        "game",
+        "setclipboard",
+        "getgenv",
+        "repr",
+        "workspace",
+        "wait",
+        "game",
+        "spawn",
+        "CFrame",
+        "Ray",
+        "Enum",
+        "typeof",
+        "Instance",
+        "UDim2",
+        "Color3",
+        "engine",
+        "guiCoord",
+        "rconsoleprint",
+        "syn",
+        "Vector3",
+        "script",
+        "Drawing",
+        "Vector2",
+        "readfile",
+        "TweenInfo",
+        "script",
+        "writefile",
+        "appendfile",
+        "readfile",
+        "WebSocket"
+    ],
+    "launch": {
+
+    }
 }
